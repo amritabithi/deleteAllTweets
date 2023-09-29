@@ -43,7 +43,7 @@ javascript:
                 }
             });
         });
-        setTimeout(delTweets, 0);
+        setTimeout(delTweets, 1000);
     };
 
     delTweets();
